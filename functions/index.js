@@ -4,7 +4,7 @@ const app = dialogflow({debug: true});
 
 const https = require('https');
 const functions = require('firebase-functions');
-const api = 'de9f98a92751f0fa8ceec687802f64f0';
+const api = #####################
 var ssml = require('ssml');
 var ssmlDoc = new ssml();
 var googleResponse = ''; // the response from stimulator
